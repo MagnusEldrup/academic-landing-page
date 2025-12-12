@@ -6,8 +6,8 @@ title: "Magnus Eldrup"
 <div class="hero">
 
   <div class="hero-left">
-    <img src="{{ site.baseurl }}/assets/img/magnus.jpeg" alt="Magnus Eldrup"
-       width="180" style="float:right; margin-left:15px; margin-bottom:15px;">
+     <img src="{{ site.baseurl }}/assets/img/magnus.jpeg" alt="Magnus Eldrup"
+       width="180" style="float:left; margin-right:15px; margin-bottom:15px;">
 
     <h1>Magnus Eldrup</h1>
 
