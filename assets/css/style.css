@@ -14,9 +14,12 @@
   flex-wrap: wrap; /* Falls back to stacked on mobile */
 }
 
-.hero-left {
-  flex: 1 1 260px;
+.hero-left img {
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 15px;
 }
+
 
 .hero-right {
   flex: 2 1 300px;

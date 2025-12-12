@@ -5,21 +5,27 @@ title: "Magnus Eldrup"
 
 <div class="hero">
 
+  <!-- LEFT COLUMN -->
   <div class="hero-left">
-     <img src="{{ site.baseurl }}/assets/img/magnus.jpeg" alt="Magnus Eldrup"
-       width="180" style="float:left; margin-right:15px; margin-bottom:15px;">
+
+    <img src="{{ site.baseurl }}/assets/img/magnus.jpeg" alt="Magnus Eldrup"
+         width="180" style="float:left; margin-right:15px; margin-bottom:15px;">
 
     <h1>Magnus Eldrup</h1>
 
-    <p>PhD Candidate in Economics, Department of Economics, University of Copenhagen
-    (Development Economics Research Group, DERG).</p>
+    <p>
+      PhD Candidate in Economics, Department of Economics, University of Copenhagen
+      (Development Economics Research Group, DERG).
+    </p>
 
     <p><strong>Email:</strong> mel@econ.ku.dk</p>
     <p><strong>Affiliation:</strong> Department of Economics, University of Copenhagen</p>
     <p><strong>Fields:</strong> Public economics, development, taxation</p>
     <p><strong>CV:</strong> <a href="{{ site.baseurl }}/assets/cv/MagnusEldrup_CV.pdf">PDF</a></p>
+
   </div>
 
+  <!-- RIGHT COLUMN -->
   <div class="hero-right">
     <p>
       I work on public and development economics, with a focus on taxation,
@@ -30,9 +36,10 @@ title: "Magnus Eldrup"
 </div>
 
 
+
 ## Job Market Paper
 
-**Horizontal Inequality in Optimal Taxation:** *Evidence from a Development Context*  
+**Horizontal Inequality in Optimal Taxation: Evidence from a Development Context**
 _Job Market Paper_
 
 <details>
@@ -44,11 +51,11 @@ Exemptions are a defining feature of income tax systems in developing countries,
 
 ## Other Ongoing Research
 
-**Optimal Enforcement of Redistributive Taxation**
-_with Claus Thustrup Kreiner_
+**Optimal Enforcement of Redistributive Taxation** <br>
+_with Claus Thustrup Kreiner_<br>
 Presented at CESifo Public Economics Conference 2025 and IIPF 2025
 
-**A Worker's Worth**
-_with Paolo Falco and Andreas Menzel_
+**A Worker's Worth**<br>
+_with Paolo Falco and Andreas Menzel_<br>
 Field work in progress
 
