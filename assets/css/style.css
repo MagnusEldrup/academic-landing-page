@@ -3,60 +3,26 @@
 
 @import "{{ site.theme }}";
 
-/* TWO-COLUMN HERO LAYOUT */
-
-.hero {
-  display: flex;
-  gap: 2rem;
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
-  align-items: flex-start;
-  flex-wrap: wrap; /* Falls back to stacked on mobile */
-}
-
-.hero-left img {
-  float: left;
-  margin-right: 15px;
-  margin-bottom: 15px;
-}
-
-
-.hero-right {
-  flex: 2 1 300px;
-}
-
-/* Spacing so content doesn't stick together */
-.hero-left p,
-.hero-right p {
-  margin-top: 0.25rem;
-  margin-bottom: 0.25rem;
-}
-
-/* Make the abstract toggle text smaller */
-details summary {
-  font-size: 0.85rem;
-  cursor: pointer;
-}
-
-/* Force one-column layout */
-.wrapper {
-  max-width: 900px;   /* adjust if you want wider/narrower */
-  margin: 40px auto;
-}
-
-header, section {
-  float: none !important;
-  width: auto !important;
-  position: static !important;
-}
-
+/* One-column layout: hide the sidebar and let content take full width */
 header {
-  padding-right: 0 !important;
-  margin-bottom: 24px;
-  border-bottom: 1px solid #e5e5e5;
+  display: none !important;
 }
 
 section {
+  float: none !important;
+  width: 100% !important;
   border: 0 !important;
   padding: 0 !important;
+  margin: 0 auto !important;
+}
+
+.wrapper {
+  max-width: 900px;
+  margin: 40px auto;
+}
+
+/* Make the abstract toggle smaller */
+details summary {
+  font-size: 0.85rem;
+  cursor: pointer;
 }
