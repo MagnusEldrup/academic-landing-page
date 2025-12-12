@@ -1,2 +1,10 @@
-theme: jekyll-theme-minimal
+title: "Magnus Eldrup"
+description: "PhD Candidate in Economics"
 url: "https://magnuseldrup.github.io"
+baseurl: "/academic-landing-page"
+theme: null
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
