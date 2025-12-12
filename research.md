@@ -8,13 +8,11 @@ title: "Research"
 # Research
 
 ## Job Market Paper
-**Title of Your JMP**  
+**Horizontal Inequality in Optimal Taxation:**
+*Evidence from a Development Context* 
 _Job Market Paper_
 
-[Paper (PDF)](/academic-landing-page/assets/papers/JMP.pdf)  
-[Slides (PDF)](/academic-landing-page/assets/slides/JMP_slides.pdf)
 
-Very short 3–5 sentence abstract (we can write it cleanly once you give the final wording).
 
 ---
 

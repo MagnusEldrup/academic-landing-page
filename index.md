@@ -3,25 +3,47 @@ layout: default
 title: "Magnus Eldrup"
 ---
 
-[Home](/academic-landing-page/) · [Research](/academic-landing-page/research) · [CV](/academic-landing-page/cv) · [Teaching](/academic-landing-page/teaching)
+<div class="navbar">
+  <a href="{{ site.baseurl }}/">Home</a>
+  <a href="{{ site.baseurl }}/research">Research</a>
+  <a href="{{ site.baseurl }}/cv">CV</a>
+  <a href="{{ site.baseurl }}/teaching">Teaching</a>
+</div>
 
-# Magnus Eldrup
+<div class="hero">
+  <div class="hero-left">
+    <h1>Magnus Eldrup</h1>
+    <p>
+      PhD Candidate in Economics, [Your Department], [Your University].<br>
+      Job market candidate 2025–26.
+    </p>
 
-PhD Candidate in Economics, [Your University]  
-Job Market Candidate 2025–26  
-Email: [your email]
+    <p>
+      I work on public and development economics, with a focus on taxation,
+      enforcement, and the interaction between formal and informal sectors.
+    </p>
+  </div>
 
----
-
-## Research Interests
-- Public Economics
-- Development
-- Taxation and Enforcement
-
----
+  <div class="hero-right">
+    <p><strong>Email:</strong> you@university.edu</p>
+    <p><strong>Affiliation:</strong> [Department], [University]</p>
+    <p><strong>Fields:</strong> Public economics, development, taxation</p>
+    <p><strong>CV:</strong> <a href="{{ site.baseurl }}/assets/cv/MagnusEldrup_CV.pdf">PDF</a></p>
+    <p><strong>Job Market Paper:</strong> <a href="{{ site.baseurl }}/assets/papers/JMP.pdf">PDF</a></p>
+  </div>
+</div>
 
 ## Job Market Paper
-**Title of Your JMP**  
+
+**[Full Title of Your JMP]**  
 _Job Market Paper_
 
-[Read the paper (PDF)](/academic-landing-page/assets/papers/JMP.pdf)
+[Paper (PDF)]({{ site.baseurl }}/assets/papers/JMP.pdf) ·
+[Slides (PDF)]({{ site.baseurl }}/assets/slides/JMP_slides.pdf)
+
+Short 4–6 line abstract here: question, setting, method in one line each,
+and a final line with the main quantitative result.
+
+## Other Research
+
+Link to the [Research page]({{ site.baseurl }}/research) for working papers and work in progress.
