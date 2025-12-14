@@ -26,3 +26,6 @@ details summary {
   font-size: 0.85rem;
   cursor: pointer;
 }
+main, .page-content {
+    background-color: #f7f7f7;
+}
