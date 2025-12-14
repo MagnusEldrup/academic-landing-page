@@ -20,7 +20,7 @@ PhD Candidate in Economics, University of Copenhagen
 <!-- Clear float before long description -->
 <div style="clear: both;"></div>
 
-Hi there. I am a PhD student at the University of Copenhagen with the Development Economics Research Group (DERG). With my research I attempt to help build a deeper understanding of issues of taxation in developing countries, especially as it pertains to the interplay between the formal and the informal sector. Before embarking on my PhD I completed the Msc. in Economics for Development at the University of Oxford and an MA. in Economics from the University of Copenhagen.  
+Hi there. I am a PhD student at the University of Copenhagen with the Development Economics Research Group (DERG). Through my research I try to help better understand issues of taxation in developing countries, especially as it pertains to the interplay between the formal and the informal sector. Before embarking on my PhD I completed the Msc. in Economics for Development at the University of Oxford and an MA. in Economics from the University of Copenhagen.  
 
 ## Job Market Paper
 
